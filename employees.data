@@ -1,0 +1,12 @@
+{"basicSalary":123333,"className":"telran.employees.Employee","id":1,"department":"data"}
+{"basicSalary":20000,"className":"telran.employees.Manager","id":2,"department":"law","factor":10}
+{"basicSalary":123121331,"className":"telran.employees.Employee","id":3,"department":"data"}
+{"basicSalary":1,"className":"telran.employees.Manager","id":4,"department":"law","factor":1}
+{"hours":10,"basicSalary":1000,"className":"telran.employees.WageEmployee","id":5,"department":"sales","wage":1000}
+{"hours":10,"basicSalary":1000,"className":"telran.employees.SalesPerson","id":6,"department":"cs","percent":10,"sales":10,"wage":1000}
+{"basicSalary":100,"className":"telran.employees.Employee","id":7,"department":"law"}
+{"hours":100,"basicSalary":100,"className":"telran.employees.WageEmployee","id":8,"department":"law","wage":100}
+{"basicSalary":100,"className":"telran.employees.Employee","id":9,"department":"cs"}
+{"hours":200,"basicSalary":200,"className":"telran.employees.WageEmployee","id":10,"department":"cs","wage":300}
+{"hours":200,"basicSalary":200,"className":"telran.employees.SalesPerson","id":11,"department":"cs","percent":20,"sales":200,"wage":200}
+{"basicSalary":200,"className":"telran.employees.Manager","id":12,"department":"law","factor":10}
