@@ -10,3 +10,4 @@
 {"hours":200,"basicSalary":200,"className":"telran.employees.WageEmployee","id":10,"department":"cs","wage":300}
 {"hours":200,"basicSalary":200,"className":"telran.employees.SalesPerson","id":11,"department":"cs","percent":20,"sales":200,"wage":200}
 {"basicSalary":200,"className":"telran.employees.Manager","id":12,"department":"law","factor":10}
+{"basicSalary":7412,"className":"telran.employees.Employee","id":1234,"department":"QA"}
